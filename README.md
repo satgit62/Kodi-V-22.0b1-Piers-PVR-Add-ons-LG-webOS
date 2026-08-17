@@ -7,10 +7,13 @@ The following PVRs are available:
 *  pvr.stalker-22.2.5 (Stalker Client)
 *  pvr.vuplus_22.3.6 (Enigma2 PVR Client) - requires the “inputstream.ffmpegdirect” file to be preinstalled
 
-Default add-ons for the Kodi Media Center
+Default add-ons for the Kodi Media Center:
 *  inputstream.adaptive
 *  inputstream.ffmpegdirect
 *  inputstream.rtmp
+  
+Other:
+* resolverurl
 
 # Note
 If the installation from the ZIP file fails, unzip the ZIP file and use FileZilla to copy the relevant folder to the `/media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/` folder on the TV.
